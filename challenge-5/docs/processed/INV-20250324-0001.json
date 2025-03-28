@@ -1,0 +1,14 @@
+{
+  "date": "2025-03-24",
+  "merchant": "Contoso Foods LLC",
+  "amount": 237.29,
+  "currency": "USD",
+  "category": "Meals",
+  "description": "Executive Lunch and catering services",
+  "employee_id": "UNKNOWN",
+  "status": "Pending",
+  "notes": null,
+  "invoice_id": "INV-20250324-0001",
+  "receipt_id": "RCPT-CEF93077",
+  "processed_at": "2025-03-28T15:25:29.812754"
+}

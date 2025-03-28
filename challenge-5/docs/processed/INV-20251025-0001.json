@@ -1,0 +1,14 @@
+{
+  "date": "2025-03-24",
+  "merchant": "Contoso Air",
+  "amount": 4416.25,
+  "currency": "USD",
+  "category": "Travel",
+  "description": "Round trip airfare from Seattle to Munich in Business class.",
+  "employee_id": "UNKNOWN",
+  "status": "Pending",
+  "notes": "Ticket valid only with government-issued photo ID.",
+  "invoice_id": "INV-20251025-0001",
+  "receipt_id": "RCPT-878FBE05",
+  "processed_at": "2025-03-28T15:25:40.658985"
+}
